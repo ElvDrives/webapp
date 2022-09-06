@@ -5,7 +5,6 @@ export default function Home() {
     <div
       style={{
         height: "90vh",
-        // width: "100vw",
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
